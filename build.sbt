@@ -15,3 +15,5 @@ testFrameworks += new TestFramework("utest.runner.Framework")
 libraryDependencies ++= Seq(
   "com.lihaoyi" %% "utest" % "0.6.3" % "test"
 )
+
+
